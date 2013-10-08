@@ -1,6 +1,7 @@
 Chick-Fil-A Copycat
 
 Original Recipe: http://www.seriouseats.com/recipes/2012/07/homemade-chick-fil-a-sandwiches-recipe.html
+Recipe modified by: https://github.com/phantom42
 
 Note: Just like the real thing, this fried chicken is quite salty. If you would like a less salty sandwich, reduce brining time to 1 hour and decrease salt in breading. I use Diamond Crystal kosher salt. If you are using Morton kosher salt, reduce by 25%. If using regular table salt, reduce by 50%Ingredients
 

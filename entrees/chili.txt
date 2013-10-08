@@ -1,6 +1,7 @@
 Chili
 
 Original Recipe: http://allrecipes.com/recipe/debdoozies-blue-ribbon-chili/
+Recipe modified by: https://github.com/phantom42
 
 -2 pounds ground beef (1 pound 80/20, 1 pound 90/10 or 96/4)
 -1/2 onion, chopped

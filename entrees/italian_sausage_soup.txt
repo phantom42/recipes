@@ -1,6 +1,7 @@
 Italian Sausage Soup
 
 Original Recipe: http://community.livejournal.com/cooking/7007682.html
+Recipe modified by: https://github.com/phantom42
 
 -1 package hot sausages (5 links)
 -1 shallot (2 if they are small or half an onion)

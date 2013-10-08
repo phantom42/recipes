@@ -1,6 +1,7 @@
 Salt and Pepper Chicken Recipe
 
 Original Recipe: http://rasamalaysia.com/salt-and-pepper-chicken-recipe/2/
+Recipe modified by: https://github.com/phantom42
 
 Ingredients:
 
